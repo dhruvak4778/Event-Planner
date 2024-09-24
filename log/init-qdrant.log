@@ -1,0 +1,30 @@
+           _                 _    
+  __ _  __| |_ __ __ _ _ __ | |_  
+ / _` |/ _` | '__/ _` | '_ \| __| 
+| (_| | (_| | | | (_| | | | | |_  
+ \__, |\__,_|_|  \__,_|_| |_|\__| 
+    |_|                           
+
+Version: 1.11.4, build: d8b6e4a0
+Access web UI at http://localhost:6333/dashboard
+
+2024-09-24T10:51:30.120001Z  INFO storage::content_manager::consensus::persistent: Loading raft state from ./storage/raft_state.json    
+2024-09-24T10:51:30.122507Z DEBUG storage::content_manager::consensus::persistent: State: Persistent { state: RaftState { hard_state: HardState { term: 0, vote: 0, commit: 0 }, conf_state: ConfState { voters: [807783401007577], learners: [], voters_outgoing: [], learners_next: [], auto_leave: false } }, latest_snapshot_meta: SnapshotMetadataSer { term: 0, index: 0 }, apply_progress_queue: EntryApplyProgressQueue(None), peer_address_by_id: RwLock { data: {} }, peer_metadata_by_id: RwLock { data: {} }, cluster_metadata: {}, this_peer_id: 807783401007577, path: "./storage/raft_state.json", dirty: false }    
+2024-09-24T10:51:30.164585Z  INFO storage::content_manager::toc: Loading collection: default    
+2024-09-24T10:51:30.278586Z  INFO collection::shards::local_shard: Recovering collection default: 0/1 (0%)    
+2024-09-24T10:51:30.319947Z  INFO collection::shards::local_shard: Recovered collection default: 1/1 (100%)    
+2024-09-24T10:51:30.327177Z DEBUG qdrant: Loaded collection: default    
+2024-09-24T10:51:30.327192Z  INFO qdrant: Distributed mode disabled    
+2024-09-24T10:51:30.327658Z  INFO qdrant: Telemetry reporting disabled    
+2024-09-24T10:51:30.328282Z DEBUG qdrant: Waiting for thread web to finish    
+2024-09-24T10:51:30.330546Z  WARN qdrant::actix::web_ui: Static content folder for Web UI './static' does not exist    
+2024-09-24T10:51:30.331057Z  INFO qdrant::actix: TLS disabled for REST API    
+2024-09-24T10:51:30.331697Z  INFO qdrant::actix: Qdrant HTTP listening on 6333    
+2024-09-24T10:51:30.332148Z  INFO actix_server::builder: Starting 11 workers
+2024-09-24T10:51:30.332158Z  INFO actix_server::server: Actix runtime found; starting in Actix runtime
+2024-09-24T10:51:30.334893Z  INFO qdrant::tonic: Qdrant gRPC listening on 6334    
+2024-09-24T10:51:30.334915Z  INFO qdrant::tonic: TLS disabled for gRPC API    
+2024-09-24T10:51:40.091018Z  INFO storage::content_manager::toc::collection_meta_ops: Deleting collection default    
+2024-09-24T10:51:40.092888Z DEBUG collection::update_handler: Stopping flush worker.    
+2024-09-24T10:51:40.100765Z  INFO actix_web::middleware::logger: 127.0.0.1 "DELETE /collections/default HTTP/1.1" 200 48 "-" "curl/7.81.0" 0.012449    
+2024-09-24T11:09:19.819692Z  INFO actix_web::middleware::logger: 127.0.0.1 "POST /collections/default/points/search HTTP/1.1" 404 85 "-" "-" 0.004002    

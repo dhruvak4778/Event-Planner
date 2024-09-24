@@ -1,0 +1,79 @@
+# Prompt 1:
+Q: Can you help me plan a wedding?
+A: Absolutely! I can assist with everything from finding venues and caterers to managing your guest list. Let’s start with your budget and preferred location.
+
+# Prompt 2:
+Q: How do I manage my guest list for a corporate event?
+A: You can manage your guest list by adding names, sending invitations, and tracking RSVPs. I can help you organize it and set reminders for follow-ups.
+
+# Prompt 3:
+Q: What are some good venues for a birthday party in New York?
+A: Here are a few great venues for a birthday party in New York: 1. The Penthouse at Dream Downtown, 2. 230 Fifth Rooftop, 3. The Bowery Hotel Ballroom. I can assist you with bookings and availability.
+
+# Prompt 4:
+Q: Can you recommend some wedding caterers in Los Angeles?
+A: Sure! Here are a few top-rated wedding caterers in Los Angeles: 1. Patina Catering, 2. The Kitchen for Exploring Foods, 3. Tres LA Catering. Would you like to get quotes from them?
+
+# Prompt 5:
+Q: How can I track RSVPs for my event?
+A: You can track RSVPs by using an online invitation service or an event management tool. I can help you set up a system that sends automatic reminders to your guests.
+
+# Prompt 6:
+Q: What should be included in an event planning checklist?
+A: A typical event planning checklist includes: venue booking, catering, entertainment, decorations, invitations, guest list management, and on-site logistics. I can create a customized checklist for your event.
+
+# Prompt 7:
+Q: What are some good themes for a kids' birthday party?
+A: Some popular themes for kids' birthday parties include: 1. Superheroes, 2. Princesses, 3. Pirates, 4. Dinosaurs, and 5. Space Adventure. I can help you find themed decorations and entertainment.
+
+# Prompt 8:
+Q: How do I create a budget for my event?
+A: Start by listing all the main components: venue, food, entertainment, décor, and invitations. Assign estimated costs to each and track your spending. I can help you create and manage the budget with real-time updates.
+
+# Prompt 9:
+Q: Can you suggest some unique wedding themes?
+A: Sure! Here are a few unique wedding themes: 1. Rustic Farmhouse, 2. Bohemian Chic, 3. Vintage Hollywood Glam, 4. Beach Destination. I can help you plan out the details for each.
+
+# Prompt 10:
+Q: What’s a good timeline for planning a conference?
+A: A typical conference planning timeline is around 6-12 months. Key milestones include: securing a venue, booking speakers, organizing logistics, and promoting the event. I can guide you through each stage.
+
+# Prompt 11:
+Q: How can I organize transportation for guests attending my event?
+A: You can book shuttle services or provide guests with transportation options like rideshare discounts. I can help you coordinate pick-up and drop-off schedules to make sure everything runs smoothly.
+
+# Prompt 12:
+Q: Can you help me find a photographer for my wedding?
+A: Absolutely! I can recommend photographers based on your location and style preferences. Would you like to see portfolios from some local photographers?
+
+# Prompt 13:
+Q: How do I choose the right entertainment for my event?
+A: It depends on your event type and audience. For a wedding, live bands or DJs are popular. For corporate events, you might want a keynote speaker or a comedian. I can recommend options based on your event's theme and budget.
+
+# Prompt 14:
+Q: What do I need to consider when planning an outdoor event?
+A: Key considerations for outdoor events include weather, tent rentals, sound systems, and backup plans. I can help you with contingency planning and equipment rental recommendations.
+
+# Prompt 15:
+Q: How can I stay within budget while planning a large event?
+A: Prioritize the most important elements of the event, like venue and catering, and look for areas to cut costs like DIY décor or digital invitations. I can help you monitor and adjust your budget as you go.
+
+# Prompt 16:
+Q: Can you help me find local vendors for a charity event?
+A: Definitely! I can help you find local vendors like caterers, florists, and sound technicians based on your event needs and location. Would you like me to create a vendor list for you?
+
+# Prompt 17:
+Q: How do I handle last-minute changes to my event?
+A: For last-minute changes, communication is key. I can help you notify your guests, vendors, and staff via email or SMS, and quickly adjust the logistics to accommodate the changes.
+
+# Prompt 18:
+Q: What are some good ideas for a corporate holiday party?
+A: Some ideas include: 1. A winter wonderland theme, 2. Casino night, 3. Ugly sweater party, or 4. A masquerade ball. I can help you with planning and decorations for any theme you choose.
+
+# Prompt 19:
+Q: What should be included in a wedding day timeline?
+A: A wedding day timeline typically includes: hair and makeup, getting dressed, first look, ceremony, cocktail hour, dinner, speeches, and dancing. I can create a customized timeline based on your event schedule.
+
+# Prompt 20:
+Q: How do I choose a venue for my event?
+A: Consider the number of guests, event type, and your budget. Look for venues with suitable space, amenities, and proximity to guests. I can help you shortlist venues and check availability for your preferred dates.
